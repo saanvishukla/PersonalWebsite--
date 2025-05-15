@@ -20,16 +20,15 @@ const Blog = () => {
 
         <div className="project-card">
           <div className="modal-content">
-            <h1>Lorem ipsum</h1>
+            <h1>Project 2</h1>
             <div className="tags">
+              {/* <span>Lorem ipsum</span>
               <span>Lorem ipsum</span>
               <span>Lorem ipsum</span>
-              <span>Lorem ipsum</span>
-              <span>Lorem ipsum</span>
+              <span>Lorem ipsum</span> */}
             </div>
             <p>
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.
+              TravelBuddy
             </p>
             <Link to="/project2" className="view-project-button">
               View Project
@@ -39,16 +38,15 @@ const Blog = () => {
 
         <div className="project-card">
           <div className="modal-content">
-            <h1>Different Title</h1>
+            <h1>Project 3</h1>
             <div className="tags">
-              <span>Tag 1</span>
+              {/* <span>Tag 1</span>
               <span>Tag 2</span>
               <span>Tag 3</span>
-              <span>Tag 4</span>
+              <span>Tag 4</span> */}
             </div>
             <p>
-              Different description here. Duis aute irure dolor in reprehenderit
-              in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+              ORTUS.
             </p>
             <Link to="/project3" className="view-project-button">
               View Project
