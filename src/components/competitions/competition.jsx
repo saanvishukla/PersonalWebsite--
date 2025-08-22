@@ -63,6 +63,12 @@ const competitionItems = [
     img: "/trial.png",
     desc: "Orchestrated the successful execution of TEDx HKUST by managing logistics for an event with 120 participants drawn from more than 535 applicants.",
   },
+  {
+    id: 11,
+    title: "HKAE Pitch Competition",
+    img: "/trial.png",
+    desc: "Currently participating as part of a team developing a wearable AI solution using BCI technology, selected as one of the 7 finalists in the HKAE Pitch Competition.",
+  },
 ];
 
 const Competition = ({ item, isReversed }) => {
